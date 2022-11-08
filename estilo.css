@@ -1,0 +1,52 @@
+body{
+	background: #333300;
+}
+
+#conteudo-principal{
+	width: 1274px;
+	height: auto;
+	float: left;
+	padding: 1px;
+	margin: 1px;
+}
+.titulo{
+	background: white;
+	width: 1278px;
+	height: auto;
+	
+}
+#imagemprincipal{
+	width: 1274px;
+	
+}
+
+#conteudo-esquerda{
+	width: 424px;
+	height: auto;
+	float: left;
+}
+#conteudo-centro{
+	width: 424px;
+	height: auto;
+	float: left;
+}
+.banner{
+	width:424px;
+	height: 375px;
+}
+
+#conteudo-rodape{
+	width: 824px;
+	height: auto;
+	float: left;
+	padding: 10px;
+	margin: 1px;	
+}
+#video-rodape{
+	width: 430px;
+	height: 285px;
+	padding: 1px;
+	margin: 1px;
+	float: left;
+}
+
